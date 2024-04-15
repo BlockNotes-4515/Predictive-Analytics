@@ -93,10 +93,10 @@ This roadmap outlines the planned features, technical improvements, and user exp
 Feel free to adjust the content or formatting according to your preferences!
 
 ## Important Links
-- [Live Demo]:(https://blocknotes-4515.github.io/Predictive-Analytics/)
-- [Documentation]:(WILL BE ANNOUNCED SOON....)
-- [Mobile Weathering APP]:(https://blocknotes-4515.github.io/Weather-Monitor-APP/)
-- [Project Board]:(https://blocknotes-4515.github.io/Weather-Monitor-APP/)
+- [Live Demo](https://blocknotes-4515.github.io/Predictive-Analytics/)
+- [Documentation](WILL BE ANNOUNCED SOON....)
+- [Mobile Weathering APP](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
+- [Project Board](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 <hr>
 <br>
 
