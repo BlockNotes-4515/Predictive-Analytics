@@ -2,9 +2,11 @@
 This is my AI Project "Predictive Analytics", Which tells you the current predicted climatic weather Conditions!😎🤑👍✔
 <hr>
 Sure, here's an expanded version with additional headings:
-<div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
-    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="#" alt="Image 1" style="float: left; width: 35%;"></a>
-</div>
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="#" height="60%" width="60%" border="2" alt="This is My Logo!">
+  </a>
+</p>
 
 ## Overview / Main AIM / OBJ.
 Predictive Analytics is a web application designed to provide highly accurate weather forecasts for user-specified locations. Leveraging advanced predictive algorithms and machine learning techniques, it delivers detailed weather information including temperature, humidity, wind speed, and more.
