@@ -48,6 +48,7 @@ Predictive Analytics is a web application designed to provide highly accurate we
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
 <h1 align="center">Team Members: (WHITE ELEPHANT) of AI Project!</h1>
 <hr>
+<br>
 
 <p align="center">
   <table>
@@ -139,17 +140,10 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 6. **Accessible Design:** Ensure accessibility standards are met for users with disabilities.
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="25%">
   </a>
 </p>
-
 This roadmap outlines the planned features, technical improvements, and user experience enhancements for the Predictive Analytics project. Contributions and feedback are welcome as we work towards making the application more robust and user-friendly.
-<p align="center">
-  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
-  </a>
-</p>
-
 <hr>
 
 ## Important Links
