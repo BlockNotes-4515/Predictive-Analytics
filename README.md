@@ -46,9 +46,9 @@ Predictive Analytics is a web application designed to provide highly accurate we
 
 ## Contributing
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
+<br>
 <h1 align="center">Team Members: (WHITE ELEPHANT) of AI Project!</h1>
 <hr>
-<br>
 
 <p align="center">
   <table>
