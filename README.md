@@ -48,7 +48,7 @@ Predictive Analytics is a web application designed to provide highly accurate we
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
 ## Team Members
 <hr>
-<p align="center">
+<div style="text-align:center;">
     
 | Name               |    Year       | Project             | Role                 |
 |--------------------|---------------|---------------------|----------------------|
@@ -57,7 +57,8 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 | Jaspreet Singh     |  2 - Year     | Analytics Design    | Subordinates         |
 | Jigyanshu Bhardwaj |  2 - Year     | Documentation       | Subordinates         |
 | Ansh Takwal        |  2 - Year     | Documentation       | Subordinates         |
-</p>
+
+</div>
 <hr>
 
 
