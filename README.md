@@ -40,20 +40,56 @@ Predictive Analytics is a web application designed to provide highly accurate we
 <br>
 
 ## Contributing
-Contributions to Predictive Analytics are welcome! Please refer to the [CONTRIBUTING.md](CONTRIBUTING.md) file for guidelines on how to contribute.
+Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
+## Team Members
+<hr>
+| Name               |    Year       | Project             | Role                 |
+|--------------------|---------------|---------------------|----------------------|
+| Dhruv Dhayal       |  2 - Year     | Web Development     | Leader (Prototype)   |
+| Aditya Raj         |  2 - Year     | PPT                 | Controller           |
+| Jaspreet Singh     |  2 - Year     | Analytics Design    | Subordinates         |
+| Jigyanshu Bhardwaj |  2 - Year     | Documentation       | Subordinates         |
+| Ansh Takwal        |  2 - Year     | Documentation       | Subordinates         |
 <hr>
 <br>
 
-## Roadmap
-[List of planned features and improvements]
-<hr>
-<br>
+## Roadmap  ========>
+
+### Planned Features
+1. **Historical Weather Data:** Integrate functionality to display historical weather data for specified locations.
+2. **Weather Alerts:** Implement a feature to provide real-time weather alerts for severe weather conditions.
+3. **Customizable Dashboard:** Allow users to customize their weather dashboard with preferred metrics and locations.
+4. **Multi-Language Support:** Add support for multiple languages to make the application accessible to a wider audience.
+5. **Mobile Responsiveness:** Improve the responsiveness of the application for seamless use on mobile devices.
+6. **Forecast Accuracy Improvement:** Continuously refine predictive algorithms to enhance forecast accuracy.
+
+### Technical Improvements
+1. **Performance Optimization:** Optimize backend processes and frontend rendering for improved performance.
+2. **Code Refactoring:** Conduct code refactoring to enhance maintainability and readability.
+3. **Security Enhancements:** Strengthen security measures to protect user data and prevent vulnerabilities.
+4. **API Integration:** Explore additional weather data APIs for more comprehensive and accurate forecasts.
+5. **Automated Testing:** Implement automated testing to ensure reliability and stability of the application.
+6. **Documentation Enhancement:** Improve project documentation for better understanding and contribution.
+
+### User Experience Enhancements
+1. **Feedback Mechanism:** Introduce a feedback mechanism for users to provide suggestions and report issues.
+2. **Interactive Map:** Incorporate an interactive map feature for visualizing weather patterns and forecasts.
+3. **Personalized Recommendations:** Provide personalized weather recommendations based on user preferences and past searches.
+4. **Social Media Integration:** Enable sharing weather forecasts and updates on social media platforms.
+5. **Offline Access:** Develop functionality to allow users to access weather forecasts offline.
+6. **Accessible Design:** Ensure accessibility standards are met for users with disabilities.
+
+This roadmap outlines the planned features, technical improvements, and user experience enhancements for the Predictive Analytics project. Contributions and feedback are welcome as we work towards making the application more robust and user-friendly.
+
+---
+
+Feel free to adjust the content or formatting according to your preferences!
 
 ## Important Links
-- [Live Demo](#)
-- [Documentation](#)
-- [Issue Tracker](#)
-- [Project Board](#)
+- [Live Demo]:(https://blocknotes-4515.github.io/Predictive-Analytics/)
+- [Documentation]:(WILL BE ANNOUNCED SOON....)
+- [Mobile Weathering APP]:(https://blocknotes-4515.github.io/Weather-Monitor-APP/)
+- [Project Board]:(https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 <hr>
 <br>
 
