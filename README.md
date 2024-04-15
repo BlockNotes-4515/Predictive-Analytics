@@ -48,17 +48,52 @@ Predictive Analytics is a web application designed to provide highly accurate we
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
 ## Team Members
 <hr>
-<div style="text-align:center;">
-    
-| Name               |    Year       | Project             | Role                 |
-|--------------------|---------------|---------------------|----------------------|
-| Dhruv Dhayal       |  2 - Year     | Web Development     | Leader (Prototype)   |
-| Aditya Raj         |  2 - Year     | PPT                 | Controller           |
-| Jaspreet Singh     |  2 - Year     | Analytics Design    | Subordinates         |
-| Jigyanshu Bhardwaj |  2 - Year     | Documentation       | Subordinates         |
-| Ansh Takwal        |  2 - Year     | Documentation       | Subordinates         |
 
-</div>
+<p align="center">
+  <table>
+    <thead>
+      <tr>
+        <th>Name</th>
+        <th>Year</th>
+        <th>Project</th>
+        <th>Role</th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td>Dhruv Dhayal</td>
+        <td>2 - Year</td>
+        <td>Web Development</td>
+        <td>Leader (Prototype)</td>
+      </tr>
+      <tr>
+        <td>Aditya Raj</td>
+        <td>2 - Year</td>
+        <td>PPT</td>
+        <td>Controller</td>
+      </tr>
+      <tr>
+        <td>Jaspreet Singh</td>
+        <td>2 - Year</td>
+        <td>Analytics Design</td>
+        <td>Subordinates</td>
+      </tr>
+      <tr>
+        <td>Jigyanshu Bhardwaj</td>
+        <td>2 - Year</td>
+        <td>Documentation</td>
+        <td>Subordinates</td>
+      </tr>
+      <tr>
+        <td>Ansh Takwal</td>
+        <td>2 - Year</td>
+        <td>Documentation</td>
+        <td>Subordinates</td>
+      </tr>
+    </tbody>
+  </table>
+</p>
+
 <hr>
 
 
