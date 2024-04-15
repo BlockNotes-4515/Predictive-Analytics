@@ -49,6 +49,7 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 ## Team Members
 <hr>
 <p align="center">
+    
 | Name               |    Year       | Project             | Role                 |
 |--------------------|---------------|---------------------|----------------------|
 | Dhruv Dhayal       |  2 - Year     | Web Development     | Leader (Prototype)   |
