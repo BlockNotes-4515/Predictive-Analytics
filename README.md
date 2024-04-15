@@ -6,7 +6,6 @@ Sure, here's an expanded version with additional headings:
 ## Overview / Main AIM / OBJ.
 Predictive Analytics is a web application designed to provide highly accurate weather forecasts for user-specified locations. Leveraging advanced predictive algorithms and machine learning techniques, it delivers detailed weather information including temperature, humidity, wind speed, and more.
 <hr>
-<br>
 
 ## Features
 - **Accurate Predictions:** Utilizes cutting-edge predictive algorithms to forecast weather conditions with high accuracy.
@@ -14,7 +13,6 @@ Predictive Analytics is a web application designed to provide highly accurate we
 - **Location-Based Forecasting:** Enables users to search for weather forecasts for specific locations worldwide.
 - **User-Friendly Interface:** Offers an intuitive and easy-to-use interface for seamless interaction.
 <hr>
-<br>
 
 ## Technologies Used
 - **Frontend:** HTML(5), CSS(3), JavaScript(JS) ||
@@ -22,7 +20,6 @@ Predictive Analytics is a web application designed to provide highly accurate we
 - **Predictive Analytics:** Machine Learning algorithms (e.g., regression, neural networks) ||
 - **APIs:** [Use WEATHER API (FOR - FREE)] ||
 <hr>
-<br>
 
 ## Demonstration
 <ul>
@@ -32,23 +29,23 @@ Predictive Analytics is a web application designed to provide highly accurate we
   <li>Documentation: Will be Announced Soon! ....</li>
 </ul>
 <hr>
-<br>
-
-## Getting Started
-[Instructions on how to set up and run the project locally]
-<hr>
-<br>
 
 ## Usage
-[Guidelines on how to use the web application]
+<ul>
+  <li> 1. You can also clone this repository for viewing the Source-code.</li>
+  <li> 2. By, using GIT Commands you simply fork/Clone this repository.</li>
+  <li> 3. Search any Location on the search bar!</li>
+  <li> 4. View the Data Analyics like: (Weather, wind-speed, Humidity, Location, Place to search)</li>
+  <li> 5. Live - Link: https://blocknotes-4515.github.io/Predictive-Analytics/</li>
+</ul>
 <hr>
-<br>
+
 
 ## Contributing
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
 ## Team Members
 <hr>
-
+<p align="center">
 | Name               |    Year       | Project             | Role                 |
 |--------------------|---------------|---------------------|----------------------|
 | Dhruv Dhayal       |  2 - Year     | Web Development     | Leader (Prototype)   |
@@ -56,9 +53,9 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 | Jaspreet Singh     |  2 - Year     | Analytics Design    | Subordinates         |
 | Jigyanshu Bhardwaj |  2 - Year     | Documentation       | Subordinates         |
 | Ansh Takwal        |  2 - Year     | Documentation       | Subordinates         |
-
+</p>
 <hr>
-<br>
+
 
 ## Roadmap  ========>
 
@@ -87,10 +84,7 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 6. **Accessible Design:** Ensure accessibility standards are met for users with disabilities.
 
 This roadmap outlines the planned features, technical improvements, and user experience enhancements for the Predictive Analytics project. Contributions and feedback are welcome as we work towards making the application more robust and user-friendly.
-
----
-
-Feel free to adjust the content or formatting according to your preferences!
+<hr>
 
 ## Important Links
 - [Live Demo](https://blocknotes-4515.github.io/Predictive-Analytics/)
@@ -98,17 +92,14 @@ Feel free to adjust the content or formatting according to your preferences!
 - [Mobile Weathering APP](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Project Board](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 <hr>
-<br>
 
 ## Image Gallery
 [Include screenshots or images showcasing the project]
 <hr>
-<br>
 
 ## Support
 For any inquiries or support, feel free to contact me at [your-dhayaldhruv271@gmail.com](mailto:dhayaldhruv271@gmail.com).
 <hr>
-<br>
 
 ## License
 This project is licensed under the [MIT License](LICENSE).
