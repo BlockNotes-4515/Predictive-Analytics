@@ -1,7 +1,5 @@
 <h1 align="center">WHITE ELEPHANT</h1>
 <br>
-# Predictive-Analytics
-This is my AI Project "Predictive Analytics", Which tells you the current predicted climatic weather Conditions!😎🤑👍✔
 <hr>
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
@@ -9,7 +7,7 @@ This is my AI Project "Predictive Analytics", Which tells you the current predic
   </a>
 </p>
 
-## Overview / Main AIM / OBJ.
+## Overview / Main AIM / OBJ.😎🤑👍✔
 Predictive Analytics is a web application designed to provide highly accurate weather forecasts for user-specified locations. Leveraging advanced predictive algorithms and machine learning techniques, it delivers detailed weather information including temperature, humidity, wind speed, and more.
 <hr>
 
