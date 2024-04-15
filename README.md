@@ -1,5 +1,4 @@
 <h1 align="center">WHITE ELEPHANT</h1>
-<br>
 <hr>
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
