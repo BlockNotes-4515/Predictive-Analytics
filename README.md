@@ -25,7 +25,12 @@ Predictive Analytics is a web application designed to provide highly accurate we
 <br>
 
 ## Demonstration
-[Link to live demo or screenshots]
+<ul>
+  <li>Live-Link: https://blocknotes-4515.github.io/Predictive-Analytics/</li>
+  <li>Source Link: https://github.com/BlockNotes-4515/Weather-Monitor-APP</li>
+  <li>Mobile APP: https://blocknotes-4515.github.io/Weather-Monitor-APP/</li>
+  <li>Documentation: Will be Announced Soon! ....</li>
+</ul>
 <hr>
 <br>
 
