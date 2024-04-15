@@ -3,7 +3,6 @@
 # Predictive-Analytics
 This is my AI Project "Predictive Analytics", Which tells you the current predicted climatic weather Conditions!😎🤑👍✔
 <hr>
-Sure, here's an expanded version with additional headings:
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
     <img src="Banner.png" height="60%" width="60%" border="2" alt="This is My Logo!">
@@ -50,7 +49,7 @@ Predictive Analytics is a web application designed to provide highly accurate we
 
 ## Contributing
 Contributions to Predictive Analytics are welcome! Please refer to the [https://blocknotes-4515.github.io/Predictive-Analytics/) file for guidelines on how to contribute.
-## Team Members (WHITE ELEPHANT)
+<h1 align="center">Team Members: (WHITE ELEPHANT) of AI Project!</h1>
 <hr>
 
 <p align="center">
@@ -139,7 +138,7 @@ This roadmap outlines the planned features, technical improvements, and user exp
 - [Github](https://github.com/BlockNotes-4515)
 <hr>
 
-## Image Gallery
+<h1 align="center">Image Gallery</h1>
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
     <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/start.PNG" alt="Image 1" style="float: left; width: 35%;"></a>
     <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic1.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;"></a>
