@@ -4,7 +4,7 @@ This is my AI Project "Predictive Analytics", Which tells you the current predic
 Sure, here's an expanded version with additional headings:
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="#" height="60%" width="60%" border="2" alt="This is My Logo!">
+    <img src="Banner.PNG" height="60%" width="60%" border="2" alt="This is My Logo!">
   </a>
 </p>
 
@@ -137,13 +137,23 @@ This roadmap outlines the planned features, technical improvements, and user exp
 
 ## Image Gallery
 <div style="overflow: hidden; align:center;background-image: url('images/hexagon.jpg');">
-    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="#" alt="Image 1" style="float: left; width: 35%;"></a>
-    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="#" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/start.PNG" alt="Image 1" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic1.PNG" alt="Image 2" style="float: right; width: 35%; margin-left: 5px;"></a>
 </div>
 <br>
 <div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
-    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="#" alt="Image 3" style="float: left; width: 35%;"></a>
-    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="#" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic2.PNG" alt="Image 3" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic5.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;"></a>
+</div>
+<br>
+<div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic3.PNG" alt="Image 3" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic4.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;"></a>
+</div>
+<br>
+<div style="overflow: hidden; align:center; background-image: url('images/hexagon.jpg');">
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic6.PNG" alt="Image 3" style="float: left; width: 35%;"></a>
+    <a href="https://blocknotes-4515.github.io/Predictive-Analytics/"><img src="images/pic7.PNG" alt="Image 4" style="float: right; width: 35%; margin-left: 5px;"></a>
 </div>
 <hr>
 
