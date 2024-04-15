@@ -7,7 +7,7 @@ Sure, here's an expanded version with additional headings:
 
 # Predictive Analytics
 <hr>
-<hr>
+
 ## Overview
 Predictive Analytics is a web application designed to provide highly accurate weather forecasts for user-specified locations. Leveraging advanced predictive algorithms and machine learning techniques, it delivers detailed weather information including temperature, humidity, wind speed, and more.
 <hr>
