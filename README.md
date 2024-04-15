@@ -98,6 +98,11 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 
 
 ## Roadmap  ========>
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="https://raw.githubusercontent.com/trinib/trinib/main/images/banner.svg">
+  </a>
+</p>
 
 ### Planned Features
 1. **Historical Weather Data:** Integrate functionality to display historical weather data for specified locations.
@@ -106,6 +111,11 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 4. **Multi-Language Support:** Add support for multiple languages to make the application accessible to a wider audience.
 5. **Mobile Responsiveness:** Improve the responsiveness of the application for seamless use on mobile devices.
 6. **Forecast Accuracy Improvement:** Continuously refine predictive algorithms to enhance forecast accuracy.
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+  </a>
+</p>
 
 ### Technical Improvements
 1. **Performance Optimization:** Optimize backend processes and frontend rendering for improved performance.
@@ -114,6 +124,11 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 4. **API Integration:** Explore additional weather data APIs for more comprehensive and accurate forecasts.
 5. **Automated Testing:** Implement automated testing to ensure reliability and stability of the application.
 6. **Documentation Enhancement:** Improve project documentation for better understanding and contribution.
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+  </a>
+</p>
 
 ### User Experience Enhancements
 1. **Feedback Mechanism:** Introduce a feedback mechanism for users to provide suggestions and report issues.
@@ -122,8 +137,19 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 4. **Social Media Integration:** Enable sharing weather forecasts and updates on social media platforms.
 5. **Offline Access:** Develop functionality to allow users to access weather forecasts offline.
 6. **Accessible Design:** Ensure accessibility standards are met for users with disabilities.
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+  </a>
+</p>
 
 This roadmap outlines the planned features, technical improvements, and user experience enhancements for the Predictive Analytics project. Contributions and feedback are welcome as we work towards making the application more robust and user-friendly.
+<p align="center">
+  <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
+    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+  </a>
+</p>
+
 <hr>
 
 ## Important Links
