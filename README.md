@@ -114,7 +114,7 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 6. **Forecast Accuracy Improvement:** Continuously refine predictive algorithms to enhance forecast accuracy.
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   </a>
 </p>
 
@@ -127,7 +127,7 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 6. **Documentation Enhancement:** Improve project documentation for better understanding and contribution.
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   </a>
 </p>
 
@@ -140,7 +140,7 @@ Contributions to Predictive Analytics are welcome! Please refer to the [https://
 6. **Accessible Design:** Ensure accessibility standards are met for users with disabilities.
 <p align="center">
   <a href="https://blocknotes-4515.github.io/Predictive-Analytics/">
-    <img src="https://camo.githubusercontent.com/ea40cfc33ac9e94789b044995f312e432d41bc1fd371f413583092df7649ef3d/68747470733a2f2f692e696d6775722e636f6d2f644261534b57462e676966" height="25%">
+    <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif">
   </a>
 </p>
 This roadmap outlines the planned features, technical improvements, and user experience enhancements for the Predictive Analytics project. Contributions and feedback are welcome as we work towards making the application more robust and user-friendly.
