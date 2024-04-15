@@ -133,6 +133,8 @@ This roadmap outlines the planned features, technical improvements, and user exp
 - [Documentation](WILL BE ANNOUNCED SOON....)
 - [Mobile Weathering APP](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Project Board](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
+- [Linkdin](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
+- [Github](https://github.com/BlockNotes-4515)
 <hr>
 
 ## Image Gallery
