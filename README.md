@@ -29,7 +29,7 @@ Predictive Analytics is a web application designed to provide highly accurate we
   <li>Live-Link: https://blocknotes-4515.github.io/Predictive-Analytics/</li>
   <li>Source Link: https://github.com/BlockNotes-4515/Weather-Monitor-APP</li>
   <li>Mobile APP: https://blocknotes-4515.github.io/Weather-Monitor-APP/</li>
-  <li>Documentation: Will be Announced Soon! ....</li>
+  <li>Documentation: https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor</li>
 </ul>
 <hr>
 
@@ -40,6 +40,7 @@ Predictive Analytics is a web application designed to provide highly accurate we
   <li> 3. Search any Location on the search bar!</li>
   <li> 4. View the Data Analyics like: (Weather, wind-speed, Humidity, Location, Place to search)</li>
   <li> 5. Live - Link: https://blocknotes-4515.github.io/Predictive-Analytics/</li>
+  <li> 6. Documentation: https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor</li>
 </ul>
 <hr>
 
@@ -148,7 +149,7 @@ This roadmap outlines the planned features, technical improvements, and user exp
 
 ## Important Links
 - [Live Demo](https://blocknotes-4515.github.io/Predictive-Analytics/)
-- [Documentation](WILL BE ANNOUNCED SOON....)
+- [Documentation](https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
 - [Mobile Weathering APP](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Project Board](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Linkdin](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
