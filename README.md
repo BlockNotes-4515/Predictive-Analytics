@@ -149,7 +149,8 @@ This roadmap outlines the planned features, technical improvements, and user exp
 
 ## Important Links
 - [Live Demo](https://blocknotes-4515.github.io/Predictive-Analytics/)
-- [Documentation](https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [PPT](https://www.canva.com/design/DAGCpMlBmr4/YPJ9KeJwJQkIKHU2hrVMTQ/view?utm_content=DAGCpMlBmr4&utm_campaign=designshare&utm_medium=link&utm_source=editor)
+- [Documentation](https://docs.google.com/document/d/1u0vqq0khwNrlOBYrOc_hb2OA94XGlgNH/edit?usp=sharing&ouid=117969705994841390256&rtpof=true&sd=true)
 - [Mobile Weathering APP](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Project Board](https://blocknotes-4515.github.io/Weather-Monitor-APP/)
 - [Linkdin](https://www.linkedin.com/in/dhruv-dhayal-9568b7262/)
